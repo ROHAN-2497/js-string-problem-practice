@@ -2,4 +2,6 @@ const sentences = 'i am good boy i want a next level. web developer and i wants.
 const parts  = sentences.split(' ');
 const sentence = sentences.split('.');
 const chars = sentences.split('')
-console.log(chars);
+const parsial =  sentences.slice( 5, 10);
+const parsial2 = sentences.substring(5, 9);
+console.log(parsial2);
