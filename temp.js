@@ -23,7 +23,7 @@ let color2 = 'black';
 // color1 = color2;
 // color2 = temp;
 // console.log(color1, color2);
-
+git 
 [color1, color2] = [color2, color1]; 
 console.log(color1, color2);
 
